@@ -1,2 +1,2 @@
-# Projeto-Flexbox
-Projeto feito na aula de Flexbox
+# Projeto Landing Page Flex Turismo
+Projeto de uma landing page na aula de Flexbox. :
